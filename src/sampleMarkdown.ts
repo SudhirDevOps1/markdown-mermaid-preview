@@ -1,6 +1,6 @@
 export const sampleMarkdown = `# 🚀 Smart Markdown + Mermaid Preview
 
-> **Built by Sudhir Kumar** · [\`@sudhi123\`](https://github.com/sudhi123) · Always Dark Theme 🌙
+> **Built by Sudhir Kumar** · [\`SudhirDevOps1\`](https://github.com/sudhi123) · Always Dark Theme 🌙
 
 ## 📌 Project Overview
 This system **automatically detects** whether your input is:
@@ -384,7 +384,7 @@ print("✅ Converted successfully!")
 \`\`\`json
 {
   "developer": "Sudhir Kumar",
-  "username": "@sudhi123",
+  "username": "SudhirDevOps1",
   "theme": "always-dark",
   "features": ["markdown", "mermaid", "smart-detect", "auto-fix"]
 }
@@ -400,14 +400,14 @@ print("✅ Converted successfully!")
 
 ## 👨‍💻 Developer
 
-**Sudhir Kumar** · \`@sudhi123\`
+**Sudhir Kumar** · \`SudhirDevOps1\`
 BCA Student
 
 > *"Code karo, bugs fix karo, deploy karo"* 🚀
 
 ---
 
-*Built with ❤️ by [@sudhi123](https://github.com/sudhi123)*
+*Built with ❤️ by [SudhirDevOps1](https://github.com/sudhi123)*
 *React • TypeScript • Tailwind CSS • Marked.js • Highlight.js • Mermaid.js*
 *Enhanced with 🔍 Smart Detection • 🔧 Auto-Fix Engine • 🌙 Always Dark Theme*
 `;
